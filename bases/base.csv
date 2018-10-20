@@ -1,0 +1,66 @@
+id;pescador;estado;cidade;porto;dia;mes;ano;pescado;producao;embarcacao;comprimentoembarcacao;potenciamotor;tipo;ambiente;artepesca
+9503;1;Paraíba;PB Teste 1;Porto PB 1;1;1;1985;1;4;Barco Motor de Centro;6;15;Pesqueiro;Meio do Rio;Malhadeira/Rede de Espera
+9504;1;Paraíba;PB Teste 1;Porto PB 1;2;2;1986;1;4;Barco Motor de Centro;6.8;20;Pesqueiro;Meio do Rio;Tarrafa
+9505;1;Paraíba;PB Teste 1;Porto PB 1;3;3;1987;1;2;Barco Motor de Centro;7.2;20;Pesqueiro;Meio do Rio;Caniço
+9506;1;Paraíba;PB Teste 1;Porto PB 1;4;4;1988;1;1;Barco Motor de Centro;6.3;20;Pesqueiro;Meio do Rio;Caniço com Ceva
+9507;1;Paraíba;PB Teste 1;Porto PB 1;5;5;1978;1;51;Barco Motor de Centro;6.1;20;Pesqueiro;Meio do Rio;Espinhel
+9508;1;Paraíba;PB Teste 1;Porto PB 1;6;6;1979;1;8;Barco Motor de Centro;11;20;Pesqueiro;Beira Rio;Zagaia/Flecha/Arpão
+9509;1;Paraíba;PB Teste 2;Porto PB 2;6;7;1990;1;2;Rabeta;10.2;15;Pesqueiro;Beira Rio;Rede de Arrasto
+9510;1;Paraíba;PB Teste 2;Porto PB 3;7;8;1991;1;2;Rabeta;7;15;Pesqueiro;Beira Rio;Malhadeira/Rede de Espera
+9511;1;Paraíba;PB Teste 2;Porto PB 3;8;9;1992;1;2;Rabeta;6.4;15;Pesqueiro;Beira Rio;Tarrafa
+9512;1;Paraíba;PB Teste 2;Porto PB 3;9;10;1993;1;2;Rabeta;6.9;15;Pesqueiro;Beira Rio;Caniço
+9513;1;Paraíba;PB Teste 2;Porto PB 3;9;11;1994;1;2;Rabeta;7.1;15;Pesqueiro;Beira Rio;Caniço com Ceva
+9514;1;Paraíba;PB Teste 2;Porto PB 3;10;12;1995;1;10;Rabeta;7.3;30;Pesqueiro;Lago;Espinhel
+23958;1;Rio de Janeiro;RJ Teste 1;Porto RJ 1;11;1;1970;2;1167;Canoa a Remo;12;30;Pesqueiro;Lago;Zagaia/Flecha/Arpão
+23959;2;Rio de Janeiro;RJ Teste 1;Porto RJ 1;12;2;1972;2;1179;Voadeira;12.3;30;Rio;Lago;Rede de Arrasto
+23960;2;Rio de Janeiro;RJ Teste 1;Porto RJ 1;13;3;1979;2;12;Voadeira;13.1;30;Rio;Lago;Malhadeira/Rede de Espera
+23961;2;Rio de Janeiro;RJ Teste 1;Porto RJ 1;14;4;1980;2;13;Voadeira;13.2;45;Rio;Lago;Tarrafa
+23962;2;Rio de Janeiro;RJ Teste 1;Porto RJ 1;15;5;1981;2;5;Voadeira;6;45;Rio;Igarapé;Caniço
+23963;2;Rio de Janeiro;RJ Teste 1;Porto RJ 1;16;6;1982;2;2;Voadeira;6;45;Rio;Igarapé;Caniço com Ceva
+23964;2;Rio de Janeiro;RJ Teste 1;Porto RJ 1;17;7;1983;2;7;Voadeira;6;45;Rio;Igarapé;Espinhel
+23965;2;Rio de Janeiro;RJ Teste 1;Porto RJ 2;18;8;1986;2;9;Voadeira;6;45;Rio;Igarapé;Zagaia/Flecha/Arpão
+23966;2;Rio de Janeiro;RJ Teste 1;Porto RJ 2;19;9;1987;2;3;Voadeira;6;45;Rio;Pedral;Rede de Arrasto
+23967;2;Rio de Janeiro;RJ Teste 1;Porto RJ 2;20;10;1988;2;28;Voadeira;6;45;Rio;Pedral;Malhadeira/Rede de Espera
+23968;2;Rio de Janeiro;RJ Teste 1;Porto RJ 2;21;11;1989;2;6;Voadeira;6.4;15;Rio;Pedral;Tarrafa
+23969;2;Rio de Janeiro;RJ Teste 2;Porto RJ 2;22;12;1990;2;11;Voadeira;6.8;15;Rio;Pedral;Caniço
+23970;2;Rio de Janeiro;RJ Teste 2;Porto RJ 2;23;1;1991;2;11;Barco Motor de Centro;7.4;15;Rio;Mangue;Caniço com Ceva
+23971;2;Rio de Janeiro;RJ Teste 2;Porto RJ 2;24;2;1992;2;11;Barco Motor de Centro;7.9;20;Rio;Mangue;Espinhel
+23972;2;Rio de Janeiro;RJ Teste 2;Porto RJ 2;25;3;1993;2;11;Barco Motor de Centro;12;15;Rio;Mangue;Zagaia/Flecha/Arpão
+23973;2;Rio de Janeiro;RJ Teste 2;Porto RJ 2;26;4;1994;2;11;Barco Motor de Centro;10;15;Rio;Mangue;Rede de Arrasto
+23974;2;Rio de Janeiro;RJ Teste 2;Porto RJ 2;27;5;1995;2;688;Barco Motor de Centro;11;21;Rio;Beira Rio;Malhadeira/Rede de Espera
+23975;2;Rio de Janeiro;RJ Teste 2;Porto RJ 2;28;6;1996;2;8.5;Barco Motor de Centro;13;20;Rio;Beira Rio;Tarrafa
+23976;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;29;7;1997;2;63;Barco Motor de Centro;12.7;34;Rio;Lago;Caniço
+23977;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;30;8;1998;2;26.5;Barco Motor de Centro;11.7;34;Rio;Lago;Caniço com Ceva
+23978;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;1;9;1999;2;30;Barco Motor de Centro;10;27;Rio;Lago;Espinhel
+23979;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;2;10;2000;2;34.5;Canoa a Remo;9.6;36;Rio;Lago;Zagaia/Flecha/Arpão
+23980;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;3;11;2001;2;30.5;Canoa a Remo;8.6;17;Rio;Lago;Rede de Arrasto
+23981;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;4;12;2002;2;37;Canoa a Remo;8.2;19;Rio;Igarapé;Malhadeira/Rede de Espera
+23982;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;5;1;2003;2;36.5;Canoa a Remo;8.7;20;Rio;Igarapé;Tarrafa
+23983;2;Rio de Janeiro;RJ Teste 2;Porto RJ 3;6;2;2004;2;40;Canoa a Remo;9;22;Rio;Igarapé;Caniço
+23984;3;Rio de Janeiro;RJ Teste 2;Porto RJ 3;7;3;2005;2;44.5;Canoa a Remo;9.8;16;Rio;Igarapé;Caniço com Ceva
+23985;3;Rio de Janeiro;RJ Teste 2;Porto RJ 3;8;4;2006;2;50.5;Canoa a Remo;10.1;19;Rio;Pedral;Espinhel
+23986;3;Rio de Janeiro;RJ Teste 2;Porto RJ 4;9;5;2007;2;55.5;Canoa a Remo;7.5;30;Rio;Pedral;Zagaia/Flecha/Arpão
+23987;3;Rio de Janeiro;RJ Teste 2;Porto RJ 5;10;6;1978;3;5;Canoa a Remo;7.7;32;Rio;Pedral;Rede de Arrasto
+23988;3;Rio de Janeiro;RJ Teste 2;Porto RJ 6;11;7;1979;3;6;Canoa a Remo;10;17;Mar;Pedral;Malhadeira/Rede de Espera
+23989;3;Rio de Janeiro;RJ Teste 2;Porto RJ 7;12;8;1980;3;7;Canoa a Remo;6.2;44;Mar;Mangue;Tarrafa
+23990;3;Rio de Janeiro;RJ Teste 3;Porto RJ 8;13;9;1981;3;4;Canoa a Remo;6.3;32;Mar;Mangue;Caniço
+23991;3;Rio de Janeiro;RJ Teste 3;Porto RJ 9;14;10;1982;3;5;Canoa a Remo;6.8;43;Mar;Mangue;Caniço com Ceva
+23992;3;Rio de Janeiro;RJ Teste 3;Porto RJ 10;15;11;1983;3;6;Canoa a Remo;7.3;26;Mar;Meio do Rio;Espinhel
+23993;3;Rio de Janeiro;RJ Teste 3;Porto RJ 11;16;12;1987;3;1;Canoa a Remo;9;28;Mar;Meio do Rio;Zagaia/Flecha/Arpão
+23994;3;Rio de Janeiro;RJ Teste 3;Porto RJ 12;17;1;1988;3;2;Canoa a Remo;8;30;Mar;Meio do Rio;Rede de Arrasto
+23995;3;Rio de Janeiro;RJ Teste 3;Porto RJ 13;18;2;1989;3;4;Canoa a Remo;13;41;Mar;Meio do Rio;Malhadeira/Rede de Espera
+23996;3;Rio de Janeiro;RJ Teste 3;Porto RJ 14;19;3;1990;3;2;Canoa a Remo;14;23;Mar;Meio do Rio;Tarrafa
+23997;3;Rio de Janeiro;RJ Teste 3;Porto RJ 15;20;4;1991;3;2;Canoa a Remo;14;17;Mar;Meio do Rio;Caniço
+23998;3;Rio de Janeiro;RJ Teste 3;Porto RJ 16;5;5;1992;3;2;Canoa a Remo;14;19;Mar;Meio do Rio;Caniço com Ceva
+23999;3;Rio de Janeiro;RJ Teste 3;Porto RJ 17;6;5;1993;3;2;Canoa a Remo;1.1;33;Mar;Meio do Rio;Espinhel
+24000;3;Rio de Janeiro;RJ Teste 3;Porto RJ 18;7;5;1994;3;2;Barco Motor de Centro;13.1;31;Mar;Meio do Rio;Zagaia/Flecha/Arpão
+24001;1;Rio de Janeiro;RJ Teste 3;Porto RJ 9;5;5;1978;3;5;Canoa a Remo;6.8;43;Mar;Mangue;Caniço com Ceva
+24002;1;Rio de Janeiro;RJ Teste 3;Porto RJ 10;6;5;1978;3;6;Canoa a Remo;7.3;26;Mar;Meio do Rio;Espinhel
+24003;1;Rio de Janeiro;RJ Teste 3;Porto RJ 11;7;5;1978;3;1;Canoa a Remo;9;28;Mar;Meio do Rio;Zagaia/Flecha/Arpão
+24004;1;Rio de Janeiro;RJ Teste 3;Porto RJ 12;8;5;1978;3;2;Canoa a Remo;8;30;Mar;Meio do Rio;Rede de Arrasto
+24005;1;Rio de Janeiro;RJ Teste 3;Porto RJ 13;9;5;1978;3;4;Canoa a Remo;13;41;Mar;Meio do Rio;Malhadeira/Rede de Espera
+24006;1;Rio de Janeiro;RJ Teste 3;Porto RJ 14;10;5;1978;3;2;Canoa a Remo;14;23;Mar;Meio do Rio;Tarrafa
+24007;1;Rio de Janeiro;RJ Teste 3;Porto RJ 15;11;5;1978;3;2;Canoa a Remo;14;17;Mar;Meio do Rio;Caniço
+24008;1;Rio de Janeiro;RJ Teste 3;Porto RJ 16;12;5;1978;3;2;Canoa a Remo;14;19;Mar;Meio do Rio;Caniço com Ceva
+24009;1;Rio de Janeiro;RJ Teste 3;Porto RJ 17;13;5;1978;3;2;Canoa a Remo;1.1;33;Mar;Meio do Rio;Espinhel
+24010;1;Rio de Janeiro;RJ Teste 3;Porto RJ 18;14;5;1978;3;2;Barco Motor de Centro;13.1;31;Mar;Meio do Rio;Zagaia/Flecha/Arpão
